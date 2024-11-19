@@ -8,7 +8,7 @@ running.ipynb : python notebook that needs to be run (suggested to use virtual p
 
 non_idle_q_network_torch.pt : File that stores tensors of trained neural network  
 
-Testing_Vids : contains demo running of neural network agent on 4 randomly generated maps (in .mov format)\
+Testing_Vids : contains demo running of neural network agent on 4 randomly generated maps (in .mov format)
 
 ## Notes
 
